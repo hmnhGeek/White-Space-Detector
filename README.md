@@ -1,7 +1,7 @@
 # White-Space-Detector
 
 ## Introduction
-Although a GUI has already been implemented by me on the same project, but this one has a new feature. This script can even tell you whether there is a whitespace or not in the image. It also has a run() function for separately checking all the images for whitespaces. If detected these images are auto-cropped (same as done by the GUI).
+Although a GUI has already been implemented by me on the same project, but this one is a script and has some new feature. This script can even tell you whether there is a whitespace or not in the image. It also has a run() function for separately checking all the images for whitespaces. If detected these images are auto-cropped (same as done by the GUI).
 
 ## How to run?
   1. Type "python pixel.py".
