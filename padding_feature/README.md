@@ -12,13 +12,13 @@ If you want to just know that if an image has white space or not, type this ">>>
 # Examples
 
 ## Input
-![screenshot](https://github.com/winuall/ocr-api/blob/master/AutoCrop-Modified/images/my.png)
+![screenshot](https://github.com/hmnhGeek/White-Space-Detector/blob/master/padding_feature/images/my.png)
 ## Output
-![screenshot](https://github.com/winuall/ocr-api/blob/master/AutoCrop-Modified/out/my.png)
+![screenshot](https://github.com/hmnhGeek/White-Space-Detector/blob/master/padding_feature/out/my.png)
 
 # Example 1
 
 ## Input
-![screenshot](https://github.com/winuall/ocr-api/blob/master/AutoCrop-Modified/images/q.png)
+![screenshot](https://github.com/hmnhGeek/White-Space-Detector/blob/master/padding_feature/images/q.png)
 ## Output
-![screenshot](https://github.com/winuall/ocr-api/blob/master/AutoCrop-Modified/out/q.png)
+![screenshot](https://github.com/hmnhGeek/White-Space-Detector/blob/master/padding_feature/out/q.png)
